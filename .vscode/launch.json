@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-Application<activos.api_rest>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "com.asd.activos.api_rest.Application",
+            "projectName": "activos.api_rest",
+            "args": ""
+        }
+    ]
+}
